@@ -7,3 +7,5 @@ Programming basics - total problems solved - | 179 |
 Programming fundamentals - total problems solved - | 213 |
 
 Python Advanced - total problems solved - | 128 |
+
+Python OOP - total problems solved - | 129 |
